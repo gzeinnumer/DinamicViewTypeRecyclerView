@@ -1,0 +1,2 @@
+# DinamicViewTypeRecyclerView
+ 
